@@ -1,16 +1,37 @@
-# conversor
+# Conversor de Moedas
 
-Conversor de Moedas
+Projeto que calcula a conversão das seguintes moedas: Dolar, Euro e Real, Vindo do site hb brasil. 
 
-## Getting Started
+## Conhecimentos Adquiridos nesse projeto 
 
-This project is a starting point for a Flutter application.
+Aquisição de Apis para gerar conversão de calculos matématicos das seguintes moedas: Dolar, Euro e Real por um método http request do site hb Brasil 
+nos parâmetros assícronos que contempla por uma interface na aplicação nativa chamada Largura de estado que envolveu as seguintes maneiras: Variaveis, Classes, 
+Funções, limpezas de dados, preenchimento de dados, estilização de cores, reprodução de cálculos já preenchidos em campo de texto, importação de pacotes, 
+Orientação a Objetos e etc
 
-A few resources to get you started if this is your first Flutter project:
+## Tecnologia Utilizada 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+-[Flutter](https://flutter.dev) 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-[Dart](https://dart.dev/guides) 
+
+## Site do hb Brasil e Pacote de Http 
+
+-[Hb Brasil](https://hbbrasil.com) 
+-[Pacote do Http do Dart](https://pub.dev/packages/http)
+
+## Baixar e visualizar o Projeto 
+
+  ```bash 
+  
+  $ fazer um git clone do projeto pelo terminal ou baixar e obter via winrar  
+  
+  $ Obter o Vscode, Android Studio ou intellij instalado na sua maquina
+  
+  $ Ter a versão 33.0.0 do Android para executar a aplicação, caso seja por um emulador SDK 
+  
+  $ Ter um celular Android, juntamente com um cabo USB, para emular o aplicativo pelo Android Studio 
+  
+  $ Adicionar nos guias do Android 3 vezes, eu sou desenvolvedor, com a intenção de conseguir rodar o projeto de contador
+
+
